@@ -1,4 +1,4 @@
-### Hi, I'm Milly 👋
+### Hi, I'm Diego 👋
 ---
 
 <!-- I'm Milly, a software engineer with experience in Ruby, Rails, JavaScript, React, MySQL and more. I've been working professionally for about 2 years but got my start back in days of MySpace and LiveJournal. I am enthusiastic about solving problems and outside of work my goal is to increase diversity in technology and help the next generation get their start. I am passionate about accessibility and committed to a web that works for everyone.-->
