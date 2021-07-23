@@ -9,7 +9,7 @@
 <!-- - ⚙️ I use daily: `.rb`, `.js`, `.erb`, `.slim`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`, `.sql` -->
 <!-- - 🌍 I support and volunteer with: **Code Nation, Built By Girls, AllStar Code** -->
 - 💅 Active community member of: **Hult Prize IPN**
-- 🌱 Learning more about and studying: **Algorithms, Data Science, Robotics**
+- 🌱 Learning more about and studying: **Algorithms and Web Development**
 <!-- - 💬 Ping me about: **web design**, **social media**, **diversity & inclusion**, **mentorship**, **Beyonce** -->
 <!-- - 📫 Reach me asap: <a href="https://twitter.com/millycodes/">Twitter</a> or Millycodes@gmail.com -->
 - 💜 Interests: copy writting, digital marketing, streaming 💻
