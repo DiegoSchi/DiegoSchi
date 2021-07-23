@@ -12,7 +12,7 @@
 - 🌱 Learning more about and studying: **Algorithms and Web Development**
 <!-- - 💬 Ping me about: **web design**, **social media**, **diversity & inclusion**, **mentorship**, **Beyonce** -->
 <!-- - 📫 Reach me asap: <a href="https://twitter.com/millycodes/">Twitter</a> or Millycodes@gmail.com -->
-- 💜 Interests: copy writting, digital marketing, streaming 💻
+- 💜 Interests: IA, Machine Learning, Blockchain 💻
 
 #### 💣 My magic stack in 2021 💣 is:
 - 
